@@ -1,0 +1,8 @@
+.DS_Store
+
+Spider/nbproject/private/*
+Spider/build/*
+Spider/dist/*
+
+reference/*
+www.programmableweb.com/
